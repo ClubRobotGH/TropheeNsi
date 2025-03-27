@@ -1,0 +1,28 @@
+Fonctionnement général :
+	- Le jeu fonctionne à partir d'une boucle principale qui gère l'affiche du menu de séléction des tableau. Une fois le tableau séléctionné, on lance d'autre programme pour effectuer le mini jeu choisi.
+
+Fichier main.py :
+	- Permet de lancer le jeu et de séléctionner les mini jeux
+
+Dossier data :
+	- Contient les images du jeu
+	- Dossier polices:
+		- Contient les polices utilisée 
+
+
+
+
+Fichier fonctions.py :
+	- Contient les fonctions générales du jeu : dessiner bouton/zones de texte pour les afficher sur l'écran, la fonction quand on quite le jeu.
+
+Fichier refaireTableau.py :
+	- Contient le jeu ou on doit remettre les yeux,bouche et nez de la Joconde, Marilyn Monroe, la Jeune Fille a la Perle
+
+Fichier jeu_dinosaure.py :
+	- Contient le jeu de la vague de kanagawa
+
+Fichier VraiOuFaux.py :
+	- Contient le jeu ou on doit détérminer la véracitée des informations de chaque tableaux
+
+Fichier jeu_screamer.py :
+	- Contient le jeu du cri de Munch
